@@ -1,11 +1,12 @@
-리빙랩 와이파이 개인정보동의 페이지
+**리빙랩 와이파이 개인정보동의 페이지**
 
 
-Edit config
+**Edit config**
   1. server.py
   2. npm - Wifi-main 최종/package.json
 
-"작성중"
+
+**"작성중"**
 
 MQTT 실행
 
@@ -25,6 +26,7 @@ MAC에서 진행
 MQTT 서버에 접근하기 위한 절차
 
 config 파일내용 작성 sudo vim /etc/mosquitto/mosquitto.conf (경로주의 mosquitto 파일이 설치된 경로를 찾아야 함.)
+
 <작성>
 
 password_file /etc/mosquitto/passwd
